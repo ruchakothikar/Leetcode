@@ -3,7 +3,6 @@ public:
     int pivotIndex(vector<int>& nums) {
       std::vector<int> rightsum;
       std::deque<int> leftsum;
-      int size = nums.size();
       rightsum.push_back(0);
       leftsum.push_front(0);
         for(int i=1; i<nums.size();i++)
@@ -25,10 +24,9 @@ public:
     }
 };
 
-//store size of array in s
-//run a loop through array to calculate right sums and store in array1
-//run a loop through array to calculate left sums and store in array2
-//run a loop, compare array1[i] with array2[s-i]
+//run a loop through array to calculate right sums and store in array 1
+//run a loop through array to calculate left sums and store in array 2
+//run a loop, compare array 1 with array 2
 //if they match, i is the index
 
 
