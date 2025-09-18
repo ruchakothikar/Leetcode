@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ruchakothikar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ruchakothikar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ruchakothikar/leetcode/tree/master/0724-find-pivot-index) |
+| [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ruchakothikar/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ruchakothikar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ruchakothikar/leetcode/tree/master/0242-valid-anagram) |
+| [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ruchakothikar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ruchakothikar/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ruchakothikar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruchakothikar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
