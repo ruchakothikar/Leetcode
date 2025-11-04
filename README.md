@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ruchakothikar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ruchakothikar/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ruchakothikar/leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ruchakothikar/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchakothikar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchakothikar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ruchakothikar/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchakothikar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ruchakothikar/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ruchakothikar/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ruchakothikar/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchakothikar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ruchakothikar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ruchakothikar/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ruchakothikar/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruchakothikar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ruchakothikar/leetcode/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
