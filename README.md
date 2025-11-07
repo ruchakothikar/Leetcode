@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ruchakothikar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ruchakothikar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ruchakothikar/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ruchakothikar/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ruchakothikar/leetcode/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ruchakothikar/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ruchakothikar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ruchakothikar/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/ruchakothikar/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ruchakothikar/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ruchakothikar/leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
