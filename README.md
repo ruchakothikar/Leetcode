@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ruchakothikar/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ruchakothikar/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ruchakothikar/leetcode/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/ruchakothikar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ruchakothikar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ruchakothikar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ruchakothikar/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ruchakothikar/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Counting Sort
 |  |
 | ------- |
