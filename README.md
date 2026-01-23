@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchakothikar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ruchakothikar/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ruchakothikar/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ruchakothikar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ruchakothikar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ruchakothikar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ruchakothikar/leetcode/tree/master/0146-lru-cache) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchakothikar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ruchakothikar/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ruchakothikar/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ruchakothikar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ruchakothikar/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ruchakothikar/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ruchakothikar/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchakothikar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ruchakothikar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ruchakothikar/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ruchakothikar/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
