@@ -1,30 +1,35 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map <int, int> freq;
-        vector<vector<int>> buckets(nums.size()+1);
+        unordered_map<int, int> freq;
+        priority_queue<pair<int,int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        vector<int> res;
+        //storing numbers and counts in map
         for(int i=0; i<nums.size(); i++)
         {
-            if(freq.count(nums[i]))
+            if(!freq.count(nums[i]))
             {
-                freq[nums[i]]++;
+            freq[nums[i]] = 1;
             }
             else
             {
-                freq.insert({nums[i], 1});
+                freq[nums[i]]++;
             }
         }
+        //storing counts and numbers in heap
         for(auto it=freq.begin(); it!=freq.end(); it++)
         {
-            buckets[it->second].push_back(it->first);
-        }
-        vector<int> res;
-        for(int i=nums.size(); i>=1 && res.size()<k; i--)
-        {
-            for(int j=0; j<buckets[i].size() && res.size()<k; j++)
+            pq.push({it->second, it->first});
+            if(pq.size()>k)
             {
-                res.push_back(buckets[i][j]);
+                pq.pop();
             }
+        }
+        //storing top k frequent elements in vector to return
+        while(!pq.empty())
+        {
+            res.push_back(pq.top().second);
+            pq.pop();
         }
         return res;
     }
