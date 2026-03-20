@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ruchakothikar/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ruchakothikar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ruchakothikar/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/ruchakothikar/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ruchakothikar/leetcode/tree/master/0883-car-fleet) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ruchakothikar/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ruchakothikar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
