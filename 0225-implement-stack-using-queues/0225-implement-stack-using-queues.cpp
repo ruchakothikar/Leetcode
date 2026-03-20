@@ -2,25 +2,27 @@ class MyStack {
 public:
     deque<int> q;
     MyStack() { }
-    
-    void push(int x) {
-        q.push_back(x);
+    void push(int x)
+    {
+        q.push_front(x);
     }
-    
-    int pop() {
-       int temp = q.back();
-       q.pop_back();
-       return temp;
+    int pop()
+    {
+        int temp = q.front();
+        q.pop_front();
+        return temp;
     }
-    
-    int top() {
-        return q.back();
+    int top()
+    {
+        return q.front();
     }
-    
-    bool empty() {
+    bool empty()
+    {
         return q.empty();
     }
-};
+    
+    };
+
 
 /**
  * Your MyStack object will be instantiated and called as such:
