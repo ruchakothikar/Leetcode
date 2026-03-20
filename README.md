@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ruchakothikar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ruchakothikar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ruchakothikar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ruchakothikar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
 | ------- |
@@ -297,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ruchakothikar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
