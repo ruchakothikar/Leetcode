@@ -99,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ruchakothikar/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ruchakothikar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ruchakothikar/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ruchakothikar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ruchakothikar/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ruchakothikar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ruchakothikar/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ruchakothikar/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ruchakothikar/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
