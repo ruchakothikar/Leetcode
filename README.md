@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ruchakothikar/leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ruchakothikar/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ruchakothikar/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/ruchakothikar/leetcode/tree/master/1046-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/ruchakothikar/leetcode/tree/master/1217-relative-sort-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchakothikar/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchakothikar/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ruchakothikar/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ruchakothikar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ruchakothikar/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ruchakothikar/leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
