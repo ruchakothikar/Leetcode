@@ -359,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ruchakothikar/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ruchakothikar/leetcode/tree/master/0184-department-highest-salary) |
 | [1075-project-employees-i](https://github.com/ruchakothikar/leetcode/tree/master/1075-project-employees-i) |
+| [1179-reformat-department-table](https://github.com/ruchakothikar/leetcode/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
