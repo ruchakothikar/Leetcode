@@ -358,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/ruchakothikar/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ruchakothikar/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ruchakothikar/leetcode/tree/master/0184-department-highest-salary) |
+| [1075-project-employees-i](https://github.com/ruchakothikar/leetcode/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
